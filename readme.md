@@ -11,4 +11,3 @@ main format
 ### David Did: 
 Who we are page 
 Contact us 
-Logo
