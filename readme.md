@@ -1,4 +1,4 @@
-# Group of Mike, Jesus, and 
+# Group of Mike, Eduardo, and David 
 
 #### Mike Did:
 Nav
@@ -9,3 +9,6 @@ master format
 
 
 ### David Did: 
+Who we are page 
+Contact us 
+Logo
