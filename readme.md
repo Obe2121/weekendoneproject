@@ -1,9 +1,9 @@
-# Group of Mike, Jesus, and 
+# Group of Mike, Eduardo, and David
 
 #### Mike Did:
 Nav
 footer
-master format
+main format
 
 ### Eduardo Did:
 
