@@ -43,3 +43,13 @@ a:link{
 p{
     Padding:15px;
 }
+.container{
+    height: 90%;
+    width: 90vh;
+}
+
+
+ul {
+    list-style-type: none;
+    
+  }
