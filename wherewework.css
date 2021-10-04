@@ -1,21 +1,23 @@
 .nav-item{
-    display: flex;
     Color: Black;
-    padding: 15px;
-    margin-top:20px;
     color: white;
-    border-top: 2px solid black;
-    border-bottom: 2px solid black;
-    border-right:0;
-    
+    border-right: 1px solid black;
+    margin-bottom: 15px;
+    margin-top: 15px;
    
 }
-
-
+.nav-item5{
+    padding-top: 15px;
+}
 .nav-item1{
     display: flex;
     color: black;
     border-top: 2px solid;
+}
+hr.half-width{
+    width: 90%;
+    margin: 0 auto;
+    border: 2px solid black;
 }
 
 
@@ -24,6 +26,7 @@
     flex-direction: row-reverse;
     justify-content: space-between;
     padding-right: 40px;
+    margin-bottom: 40px;
 }
 
 a:link{

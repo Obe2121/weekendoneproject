@@ -1,17 +1,25 @@
+
 .nav-item{
     Color: Black;
-    padding: 10px;
-    margin-top:10px;
     color: white;
-    border-top: 2px solid black;
-    border-bottom: 2px solid black;
+    border-right: 1px solid black;
+    margin-bottom: 15px;
+    margin-top: 15px;
+   
+}
+.nav-item5{
+    padding-top: 15px;
 }
 .nav-item1{
     display: flex;
     color: black;
     border-top: 2px solid;
 }
-
+hr.half-width{
+    width: 90%;
+    margin: 0 auto;
+    border: 2px solid black;
+}
 #btn1{
     display: flex;
     flex-direction: row-reverse;
@@ -26,4 +34,7 @@ a:link{
 }
 .nav-link:hover{
     color:lightgray;
+}
+footer{
+    padding-top: 40px;
 }
